@@ -64,7 +64,7 @@ python-decouple~=3.3
 python-memcached~=1.59
 pytz~=2020.1
 redis~=3.5.2
-requests~=2.23.0
+requests~=2.32.4
 sentry-sdk~=0.14.4
 simplejson~=3.17.0
 timeout-decorator
